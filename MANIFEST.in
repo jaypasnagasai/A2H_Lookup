@@ -1,0 +1,2 @@
+include data/*.tsv
+include data/*.zip
